@@ -1,0 +1,24 @@
+{
+  "name": "kv-store-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhmubeen1/kv-store-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhmubeen1/kv-store-node/issues"
+  },
+  "homepage": "https://github.com/muhmubeen1/kv-store-node#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
